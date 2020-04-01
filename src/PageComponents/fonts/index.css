@@ -1,0 +1,75 @@
+@font-face {
+  font-family: 'logo_font';
+  src: url(./next.ttf);
+}
+
+.quill > .ql-container > .ql-editor.ql-blank::before{
+    font-size: 20px;
+    position:relative;
+}
+
+
+.logoFontContainer{
+  font-family: "logo_font";
+  font-size:2.5em;
+  opacity:0.6;
+  color:#96008fc9;
+  background-color:"orange";
+  margin: 0 auto;
+  top:200px;
+  text-align:center;
+  padding-bottom:0px;
+
+
+
+text-shadow: -3px 2px 0px #ffffff, -11px 5px 20px #ffffff, -2px 1px 0px #ff00002e;
+
+ }
+
+ .logoFontContainerDashboard{
+  font-family: "logo_font";
+  font-size:1em;
+  opacity:0.6;
+  color:#96008fc9;
+  background-color:"orange";
+  margin: 0 auto;
+  top:200px;
+  text-align:center;
+  padding-bottom:10px;
+
+
+
+text-shadow: -3px 2px 0px #ffffff, -11px 5px 20px #ffffff, -2px 1px 0px #ff00002e;
+
+ }
+
+
+
+ .textFontContainer{
+ 	  font-family: "logo_font";
+  font-size:20px;
+  opacity:0.6;
+  color:#96008fc9;
+  background-color:"orange";
+  margin: 0 auto;
+  top:200px;
+
+
+
+text-shadow: -3px 2px 0px #ffffff, -11px 5px 20px #ffffff, -2px 1px 0px #ff00002e;
+ }
+
+  .clientFontContainer{
+  font-family: "logo_font";
+  font-size:2.8em;
+  opacity:0.6;
+  color:#4c8816;
+  margin: 0 auto;
+  position:relative;
+  text-align:center;
+
+
+
+text-shadow: -3px 2px 0px #ffffff, -11px 5px 20px #ffffff, -2px 1px 0px #ff00002e;
+
+ }
